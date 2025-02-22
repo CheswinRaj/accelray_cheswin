@@ -1,0 +1,1 @@
+ C:\\Users\\ches4\\Desktop\\accelray\\quiz_app\\.dart_tool\\flutter_build\\4a623cbcd9e0f860c1c05999a7423bb3\\native_assets.yaml: 
