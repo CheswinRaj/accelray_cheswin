@@ -55,7 +55,7 @@ Either<String, List<Quesmodel>> getQuestions() {
       print(list);
       return Right(list);
     } else {
-      print("No data found in Hive.");
+      print("No data found in HIve ");
       return const Left("l");
     }
   }
